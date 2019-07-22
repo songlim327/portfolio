@@ -2462,7 +2462,7 @@ configstore@^0.3.1:
   resolved "https://registry.yarnpkg.com/configstore/-/configstore-0.3.2.tgz#25e4c16c3768abf75c5a65bc61761f495055b459"
   dependencies:
     graceful-fs "^3.0.1"
-    js-yaml "^3.1.0"
+    js-yaml "^3.13.1"
     mkdirp "^0.5.0"
     object-assign "^2.0.0"
     osenv "^0.1.0"

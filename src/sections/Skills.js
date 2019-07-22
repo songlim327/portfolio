@@ -47,7 +47,6 @@ const MEDIA_QUERY_SMALL = '@media (max-width: 400px)';
 const ImageContainer = styled.div`
   display: flex;
   flex-flow: row wrap;
-  align-content: flex-end;
 `;
 
 const ProjectImage = styled(Image)`
